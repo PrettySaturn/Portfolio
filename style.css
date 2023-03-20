@@ -145,7 +145,7 @@ header {
 /*Image*/
 .card-avatar {
   --size: 95px;
-  background-image: url(/imagens/foto.png);
+  background-image: url(./imagens/foto.png);
   width: var(--size);
   height: var(--size);
   border-radius: 50%;
