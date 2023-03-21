@@ -41,7 +41,7 @@ header {
 .toggle-switch {
   position: relative;
   width: 100px;
-  height: 45px;
+  height: 50px;
   margin-top: 10%;
   --light: #d8dbe0;
   --dark: #28292c;
@@ -52,7 +52,7 @@ header {
 .switch-label {
   position: absolute;
   width: 100%;
-  height: 50px;
+  height: 45px;
   background-color: var(--dark);
   border-radius: 25px;
   cursor: pointer;
