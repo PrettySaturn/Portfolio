@@ -41,7 +41,7 @@ header {
 .toggle-switch {
   position: relative;
   width: 100px;
-  height: 50px;
+  height: 45px;
   margin-top: 10%;
   --light: #d8dbe0;
   --dark: #28292c;
