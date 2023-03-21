@@ -86,6 +86,10 @@
     }
 
     /*apresentação do projeto */
+    .projeto {
+        margin-top: 10%;
+    }
+    
     .apresentacao {
         grid-template-columns: 100%;
         gap: 30px;
